@@ -1,15 +1,19 @@
-# Devine le nombre
+# Guess the Number
 
-Petit jeu Python où le joueur doit deviner un nombre aléatoire entre 1 et 100.
+A small Python game where the player has to guess a random number between 1 and 100.
 
-## Fonctionnalités
+## Features
 
-- Nombre aléatoire
-- Indications "Plus haut" / "Plus bas"
-- Compteur d'essais
+- Random secret number
+- Hints: "higher" / "lower" (`Plus haut` / `Plus bas` in the game)
+- Counts your attempts
 
-## Lancer le projet
+## Run the project
 
 ```bash
-python devine_le_nombre.py
+python3 devine_le_nombre.py
 ```
+
+## Author
+
+Made by [ismael9689](https://github.com/ismael9689) while learning Python.
